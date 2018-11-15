@@ -1,3 +1,3 @@
-# Udskriver Hello World! in konsolen
+# Udskriver Hello World! i konsolen
 
 print("Hello World!")
